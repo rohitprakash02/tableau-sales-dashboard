@@ -63,11 +63,11 @@ A dot matrix visualization segmented by major product categories:
 
 | Chart | Preview |
 |-------|---------|
-| Sales by Month | ![Sales by Month](images/sales_by_month.png) |
-| Top 10 Products by Sales | ![Top 10 Products](images/top_10_products.png) |
-| Sales by Region | ![Sales by Region](images/sales_by_region.png) |
-| Sales vs Profit | ![Sales vs Profit](images/sales_vs_profit.png) |
-| Profit by Category/Sub-Category | ![Profit by Category](images/profit_by_category.png) |
+| Sales by Month | ![Sales by Month](sales_by_month.png) |
+| Top 10 Products by Sales | ![Top 10 Products](top_10_products.png) |
+| Sales by Region | ![Sales by Region](sales_by_region.png) |
+| Sales vs Profit | ![Sales vs Profit](sales_vs_profit.png) |
+| Profit by Category/Sub-Category | ![Profit by Category](profit_by_category.png) |
 
 ---
 
